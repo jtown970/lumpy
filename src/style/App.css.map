@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "App.scss",
+        "_variables.scss",
+        "_mixins.scss",
+        "_reset.scss",
+        "_header.scss",
+        "_bar.scss",
+        "_shop.scss"
+    ],
+    "names": [],
+    "file": "App.css"
+}
